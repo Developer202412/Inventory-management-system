@@ -1,36 +1,103 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📦 Inventory Management System
 
-## Getting Started
+A modern and scalable Inventory Management Dashboard built with Next.js, React, and Tailwind CSS.
 
-First, run the development server:
+This system is designed to help businesses efficiently manage products, suppliers, categories, sales, and reports through a clean and interactive dashboard interface.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- ⚡ Next.js (App Router)
+- ⚛ React.js
+- 🎨 Tailwind CSS
+- 📊 Charts for data visualization
+- 🧩 Custom Hooks Architecture
+- 🗂 Modular Component Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🧩 Core Modules
 
-To learn more about Next.js, take a look at the following resources:
+### 📊 Dashboard
+- KPI summary cards
+- Sales analytics
+- Stock performance charts
+- Real-time data visualization
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 📦 Products Management
+- Add products
+- Edit products
+- Delete products
+- Stock tracking
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🗂 Categories
+- Create and manage product categories
+- Organized inventory structure
 
-## Deploy on Vercel
+### 🚚 Suppliers
+- Manage supplier information
+- Supplier tracking
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 💰 Sales
+- Record sales transactions
+- Revenue tracking
+- Sales history table
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 📑 Reports
+- Sales performance reports
+- Inventory summaries
+- Business insights
+
+---
+
+## 🔐 Authentication (Coming Soon)
+
+Authentication and role-based access control will be implemented in the next phase.
+
+Planned features:
+
+- User Registration
+- Login system
+- Protected routes
+- Role-based access (Admin / Staff)
+- Secure session handling
+
+---
+
+## 🏗 Project Structure
+app/
+(dashboard)/
+categories/
+dashboard/
+products/
+reports/
+sales/
+suppliers/
+auth/
+components/
+dashboard/
+forms/
+tables/
+layout/
+ui/
+hooks/
+services/
+lib/
+
+The project follows a clean separation of concerns:
+- UI Components
+- Business Logic (Custom Hooks)
+- Service Layer
+- Utility Functions
+
+---
+
+## 💻 Getting Started
+
+### 1️⃣ Clone Repository
+
+
+
+
+
