@@ -98,6 +98,42 @@ The project follows a clean separation of concerns:
 ### 1️⃣ Clone Repository
 
 
+### 2️⃣ Install Dependencies
+
+### 3️⃣ Run Development Server
+
+### 4️⃣ Open in Browser
+
+
+---
+
+## 🎯 Future Improvements
+
+- 🔐 Full authentication system
+- 🗄 Backend integration (Node.js + MongoDB)
+- 📡 REST API integration
+- 📊 Advanced analytics dashboard
+- 📱 Mobile UI optimization
+- 📦 Real-time inventory updates
+
+---
+
+## 🌍 Project Vision
+
+This project is part of my journey toward building scalable, production-ready MERN stack applications focused on real-world business solutions.
+
+It demonstrates structured frontend architecture, dashboard design, state management, and modular code organization.
+
+---
+
+## 👨‍💻 Author
+
+**Inocent Mendrad Malya**  
+Frontend & MERN Stack Developer  
+
+---
+
+⭐ If you find this project useful, feel free to give it a star!
 
 
 
